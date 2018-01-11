@@ -23,11 +23,11 @@ Thu Jan 11 21:16:08 CST 2018
 3482611次请求耗时100秒
 ```
 
-1、安装zk
-2、修改配置
+1. 安装zk
+2. 修改配置
 配置test application.properties 中zookeeper地址
-3、运行 Server
-4、运行 Client
+3. 运行 Server
+4. 运行 Client
 
 ### 配置优先级
 配置使用guice自带的功能实现:
