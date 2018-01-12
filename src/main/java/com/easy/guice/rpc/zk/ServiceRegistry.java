@@ -10,9 +10,6 @@ import java.util.stream.Collectors;
 
 /**
  * 服务注册
- *
- * @author huangyong
- * @author luxiaoxun
  */
 public class ServiceRegistry {
 
